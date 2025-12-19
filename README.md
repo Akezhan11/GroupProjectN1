@@ -1,1 +1,5 @@
-# GroupProjectN1
+# Akezhan Muzamelov
+# Shamel Dias
+# Serikbol Daniyar
+# Ulsaya Tileuova
+# Task N1
